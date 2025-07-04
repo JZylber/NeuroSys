@@ -1,0 +1,2838 @@
+[
+  {
+    "hash": "da2292d747a994886930d64d89606b4b9c99d59e",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 10:24:19-03:00",
+    "message": "CARPETAS CREADAS"
+  },
+  {
+    "hash": "58bcef24bf44ef1ac94710fac664289493764912",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 10:37:54-03:00",
+    "message": "HTML"
+  },
+  {
+    "hash": "e9f93a58e946c26cab5327692f72c6fdc9185957",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 13:27:21-03:00",
+    "message": "imagenes"
+  },
+  {
+    "hash": "939f27d17537c45442e6e9eecb4afa05f0beefe0",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 13:45:26-03:00",
+    "message": "imagenes"
+  },
+  {
+    "hash": "26344455c8abe53b3256f1929fa4a7f2844e129d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 13:51:55-03:00",
+    "message": "fotos bien"
+  },
+  {
+    "hash": "e4de2bd61de5a9f83c7c8e4216dfc051c9d51d1b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 13:53:54-03:00",
+    "message": "NADA"
+  },
+  {
+    "hash": "c2bcbd190cb74fdd59c5cdd2bb15879ebacd9cda",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 14:07:52-03:00",
+    "message": "prueba juego 1 mal"
+  },
+  {
+    "hash": "a5f6ff631fd6d08d9b92ea48dea0a94173321374",
+    "merge": [
+      "c2bcbd1",
+      "e4de2bd"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 14:08:36-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "1c7a103c0536232f29191a3622b89034ab52abf8",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 14:16:16-03:00",
+    "message": "ARREGLO ONE"
+  },
+  {
+    "hash": "d201195d8dd1a2b0b10c66d4440352edd3a27a6b",
+    "merge": [
+      "1c7a103",
+      "a5f6ff6"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 14:16:32-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "cbfcdaacd3c65ddb7f6c85aa49a4c4d408fbc829",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 14:18:52-03:00",
+    "message": "colores juego 2 en negro"
+  },
+  {
+    "hash": "f7f8e25ff6e527f2ae33c9b454d023409f770389",
+    "merge": [
+      "cbfcdaa",
+      "d201195"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 14:19:28-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "78a2080bcc281014b703b45882de1634b4577ee4",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 14:20:55-03:00",
+    "message": "CSS"
+  },
+  {
+    "hash": "4af6162601e354c1a53cb2ec7c1eb62cefad1db1",
+    "merge": [
+      "78a2080",
+      "f7f8e25"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 14:21:17-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2b9d3416faf5beceb3e9063e58d68ffb6ca2c72f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 15:26:56-03:00",
+    "message": "juego 1 terminado"
+  },
+  {
+    "hash": "57ba4f2a4edfdc6adcfe7a00226a045aabdccc1d",
+    "merge": [
+      "2b9d341",
+      "4af6162"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-02 15:27:07-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "a1c12b97c8c4e9f317d7063e43954045c9259ea1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 15:50:21-03:00",
+    "message": "INICIO"
+  },
+  {
+    "hash": "a63acab44abbbb8e45e3489165817ba47616b85b",
+    "merge": [
+      "a1c12b9",
+      "57ba4f2"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-02 15:50:26-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "07bb1f407a84a6a3f1a171be566013578980fe04",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-06 08:33:35-03:00",
+    "message": "listo inicio"
+  },
+  {
+    "hash": "8172ab591686c0378b90ff2e6e3ef7edf566b3af",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-06 09:34:26-03:00",
+    "message": "menu"
+  },
+  {
+    "hash": "93fee29330c434f0f675fd142476377773516712",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-06 15:49:52-03:00",
+    "message": "LISTO"
+  },
+  {
+    "hash": "1a1efd54d669bc2e862a50358d59fe735eef104b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-07 11:01:24-03:00",
+    "message": "odio proyecto"
+  },
+  {
+    "hash": "e7dcf928db9e7497b066b0aea4853ec3f1eb68af",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-07 15:47:54-03:00",
+    "message": "listo el inicio"
+  },
+  {
+    "hash": "0b27677d953ba5807105cf5c2df95f2686baddde",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-09 15:41:54-03:00",
+    "message": "EXPLICACIONES LISTAS"
+  },
+  {
+    "hash": "b6f47af93ab8138479e505fa7e0fd95e7b92830c",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-21 14:58:47-03:00",
+    "message": "le volvi A PONER EL JS"
+  },
+  {
+    "hash": "a5bd562bb94d2953f2399f210fa921208c60fee5",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-21 15:54:08-03:00",
+    "message": "empecé lo del puntaje"
+  },
+  {
+    "hash": "2774809160359d3a05de5b36ce355db9c4dc1f9d",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-23 10:47:12-03:00",
+    "message": "Update pruebapuntaje.js"
+  },
+  {
+    "hash": "01236ff4547e67c48a9370e5c3c3f88483b86110",
+    "merge": [
+      "2774809",
+      "0b27677"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-23 10:47:48-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "4c98f3c457734024ad3ea66e4a2cf04d105a6325",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-23 14:27:37-03:00",
+    "message": "empecé lo d los niveles"
+  },
+  {
+    "hash": "37e5a66e9f59f26a3f1b0d9638e59e620d8af3ec",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-27 08:57:07-03:00",
+    "message": "todo mal"
+  },
+  {
+    "hash": "83073f1880514843fd8ec2a26f589e15d9743f49",
+    "merge": [
+      "37e5a66",
+      "4c98f3c"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-27 08:57:28-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "5fed6e691f928d82441b2c8feb559b71f97d95e8",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-27 14:58:27-03:00",
+    "message": "solucionado"
+  },
+  {
+    "hash": "e298aa0cd8a224291098d4ed1c1475423d8cd6b1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-08-27 15:50:18-03:00",
+    "message": "une"
+  },
+  {
+    "hash": "9eadc49c6fa91694c9e55e1a1b8e37cf47dffe9d",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-28 15:53:37-03:00",
+    "message": "cambio2niveles"
+  },
+  {
+    "hash": "17c2e0e6c4135fbf1c82a1f560f2dfdf880e72be",
+    "merge": [
+      "9eadc49",
+      "e298aa0"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-28 15:56:04-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "3757da8ac06fd2088e85a7e585b2de4a318e33e0",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-30 09:59:25-03:00",
+    "message": "creo q lo termine"
+  },
+  {
+    "hash": "1cedddacf256c587f9366a148af91ebf8be13ab7",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-30 10:59:57-03:00",
+    "message": "niveles pero ni funciona\nno funcionan las palabras random y despues de jugar 2 veces ddice q no hay palabras disponibles"
+  },
+  {
+    "hash": "700e5d1b885f79269e208f3327d0c8aaaeda75ce",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-30 15:54:05-03:00",
+    "message": "lo empece todo de vuelta, no funciona"
+  },
+  {
+    "hash": "b54916a6238230edf05bd85dda0d4df874e2929f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-08-31 11:44:00-03:00",
+    "message": "termine"
+  },
+  {
+    "hash": "c57d40dcc51d97e5b14141b16ffda7408bb1ae9c",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-04 15:50:20-03:00",
+    "message": "soquetic back(creo que está bien)"
+  },
+  {
+    "hash": "5333f93a1dd635f71fcbd914521bb6e88ed51c76",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-06 15:41:56-03:00",
+    "message": "empecé puntaje"
+  },
+  {
+    "hash": "970bfbc6cc57b1f00b94d20a694fe429c230b4a1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-06 15:49:19-03:00",
+    "message": "la estoy pasando mal"
+  },
+  {
+    "hash": "7bbbcb4596784a1a1c0c95dcc7a21b6448fbe8f6",
+    "merge": [
+      "970bfbc",
+      "c57d40d"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-06 15:49:24-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "78059014c0b88dbdc8abe9df4a9275d59c307a61",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-09-13 14:43:58-03:00",
+    "message": "LO QUE ESTOY HACIENDO POR AHORA"
+  },
+  {
+    "hash": "02b9a9a63d75f202a5d74935b318a0cb6682129e",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-13 14:51:42-03:00",
+    "message": "casi terminado 1"
+  },
+  {
+    "hash": "5d2b9b5b5c6e47706205b724bcd992ffa1f3632e",
+    "merge": [
+      "02b9a9a",
+      "7805901"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-13 14:59:46-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "272daacbd63b85fe7bfb6ac9c0ce81195a917e7b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-13 15:50:02-03:00",
+    "message": "no puedo más con mi vida"
+  },
+  {
+    "hash": "44c1eadae15e572581708eb1149bc3a0b1caa6d9",
+    "merge": [
+      "272daac",
+      "5d2b9b5"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-13 15:51:04-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "4665cbee9440b6522b974f2913165e96e670d795",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-15 20:05:54-03:00",
+    "message": "Hice lo del puntaje"
+  },
+  {
+    "hash": "0c5f79254d58a80c366e4dd0c5d5a37fd2eb1fca",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-17 15:51:57-03:00",
+    "message": "oaa"
+  },
+  {
+    "hash": "2a28e94c96b9c3f006d160929d15d73257ba73f7",
+    "merge": [
+      "4665cbe",
+      "0c5f792"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-18 10:03:43-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "93968640d59e4598e8673ba06fc4a1c5c82ee9d5",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-18 10:11:38-03:00",
+    "message": "Hola\nagregado"
+  },
+  {
+    "hash": "c7ea4b596959b321124f6ea8651fed80f3c4edda",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-18 10:12:12-03:00",
+    "message": "Update niveles.js"
+  },
+  {
+    "hash": "7a81c3c6b860aa34a30b32c75568ec365b9e6099",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-18 15:01:01-03:00",
+    "message": "movi carpetaa"
+  },
+  {
+    "hash": "67926178bed782f6686c709c3dec548692e9a16f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-18 15:50:38-03:00",
+    "message": "empecé juego 2"
+  },
+  {
+    "hash": "6539bc9f0ea68c2b5da53204dcaf9e8aa4f771bf",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-20 09:50:20-03:00",
+    "message": "juego 2"
+  },
+  {
+    "hash": "92c89d18dd3d2b1b367da16a89ba4fa03643e89d",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-20 10:27:36-03:00",
+    "message": "juego 3 falta corregir"
+  },
+  {
+    "hash": "8982dbfea07fcca889165c5f23fa4e7be593ac62",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-09-20 15:38:39-03:00",
+    "message": "OTRAS COSAS"
+  },
+  {
+    "hash": "ba021c50e0344cf20de34d2ed0b3b2faa44b3e11",
+    "merge": [
+      "8982dbf",
+      "92c89d1"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-09-20 15:38:44-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "8483885b66c903d049232c8bfb1706eda5b5ae7b",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-25 15:48:58-03:00",
+    "message": "uni todo pero falta borrar lo demas y corregir esto mismo"
+  },
+  {
+    "hash": "7265489d29c524b3bd6befe397ff2187e9600412",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 10:50:20-03:00",
+    "message": "empece juego 5"
+  },
+  {
+    "hash": "efbb4309489df367660270722e14eda520812604",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:22:00-03:00",
+    "message": "ESTOY BIEN"
+  },
+  {
+    "hash": "0a12ef2b9ea937e125526bcc0e83b4953968cacd",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:33:09-03:00",
+    "message": "perfecto"
+  },
+  {
+    "hash": "f7506cae52bad998fe396ee217b444ec26f58209",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 13:38:30-03:00",
+    "message": "hola"
+  },
+  {
+    "hash": "4c7e0582d932cc783d40faab38970fed3a8cb491",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:39:35-03:00",
+    "message": "lito"
+  },
+  {
+    "hash": "186076427f58545211b0aa7d5e444fd3cbd99103",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 13:39:59-03:00",
+    "message": "borre taateti"
+  },
+  {
+    "hash": "425043153a1086208fa3bedb829d34e2fd42aced",
+    "merge": [
+      "4c7e058",
+      "f7506ca"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:42:13-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "9f19ff665aa6cd76f140e9700193162967823619",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:43:04-03:00",
+    "message": "goddd"
+  },
+  {
+    "hash": "136e3c9824c280603e3bcd478545d3055348955a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 13:44:05-03:00",
+    "message": "a donde sea que esteeeess"
+  },
+  {
+    "hash": "bf56f8fbdf04e67285ad2204a76c319bf7bdebce",
+    "merge": [
+      "1860764",
+      "136e3c9"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 13:44:38-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2569c63d4de57e47a2f99585bf9eed993bee1ffb",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 14:07:57-03:00",
+    "message": "tateti"
+  },
+  {
+    "hash": "388862f48551f039038afb8ab1a85aba582ff382",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 14:13:49-03:00",
+    "message": "palabras"
+  },
+  {
+    "hash": "ff38c4d5b9c2ba8414e266daf9f934587c305b36",
+    "merge": [
+      "388862f",
+      "bf56f8f"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 14:14:13-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "cc2c5e4e516260079286cff5bdfb9416ab40af59",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-09-27 15:51:24-03:00",
+    "message": "no puedo más"
+  },
+  {
+    "hash": "2fdb7bbbd67a4c4cab73c0cdd2307d61d8ee7ae6",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 15:52:25-03:00",
+    "message": "segui tateti front"
+  },
+  {
+    "hash": "d04e45b3c17aea0f68a761a5b80f403515abe56d",
+    "merge": [
+      "2fdb7bb",
+      "cc2c5e4"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-09-27 15:52:45-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "19ec22e0f71dbf76866b2da07959b0041279af42",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-01 15:07:03-03:00",
+    "message": "no llego"
+  },
+  {
+    "hash": "81644b19140ced45576cea079084f17df37cf0d3",
+    "merge": [
+      "19ec22e",
+      "d04e45b"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-01 15:07:08-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "8bb62f74b1c4189a8fb3d454a1d1966a446973ad",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-01 15:51:27-03:00",
+    "message": "ODIO PROYECTO CON MI VIDA"
+  },
+  {
+    "hash": "3cd58543a08937bffd02838db3d209030172946f",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-10-02 10:35:12-03:00",
+    "message": "subo algunos codigos al simon le falta la lectura de btns"
+  },
+  {
+    "hash": "7282c48d7e323c73641fb9950dc341040bbef633",
+    "merge": [
+      "3cd5854",
+      "8bb62f7"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-10-02 10:35:15-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "7ae67e908b77d189a0e53d2653371b84ee34c018",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-02 11:19:12-03:00",
+    "message": "estoy mal"
+  },
+  {
+    "hash": "af434d26e733085452cf58920f572649b8b1734a",
+    "merge": [
+      "7ae67e9",
+      "7282c48"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-02 11:19:26-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "633182859bdf3e36a989c39be316309cbb8aed22",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-02 12:07:53-03:00",
+    "message": "segui"
+  },
+  {
+    "hash": "f728ec7e662597b7c24027a57caaa6824999f48c",
+    "merge": [
+      "6331828",
+      "af434d2"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-02 12:07:58-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "3471c0cef02e529d58e7f5b7329e1e60b451054c",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-02 12:11:33-03:00",
+    "message": "basta"
+  },
+  {
+    "hash": "22b5ba97a12cd0fe09b2847ba6a19d9619d864dc",
+    "merge": [
+      "3471c0c",
+      "f728ec7"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-02 12:11:47-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "73a7b523a95e1b4453df2a39e00f31ee9ee03444",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-02 16:40:15-03:00",
+    "message": "termine el tateti"
+  },
+  {
+    "hash": "d7122517f47af756a2c7facfa732185489bce24e",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-03 14:07:36-03:00",
+    "message": "termineeeee el 4 en linea\nhice el html  y css tmb (juli vos despues cambialo)"
+  },
+  {
+    "hash": "87d6a8a62386f44d845376e3d02211cbc091d3bd",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-06 19:17:52-03:00",
+    "message": "vamos que se puede"
+  },
+  {
+    "hash": "23c20f3a17cce2d84b7697b14a0eb05018bf073f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-06 19:32:06-03:00",
+    "message": "corregi bastante de server pero falta una parte\nigual me faltan los eventos de juli asique probablemente termine modificando varias cosas pero lo hago como una base (shuli si estas viendo esto decime si voy bien porq no se si lo hice bien)"
+  },
+  {
+    "hash": "33c931b261b4df967169fd554c8b3f6adca28309",
+    "merge": [
+      "23c20f3",
+      "87d6a8a"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-06 19:32:12-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "bdf17f6779d79bfc5f4343d92dfb59f372c40979",
+    "merge": [
+      "22b5ba9",
+      "33c931b"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-07 07:58:56-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "d520ba5c3f487222f91acf1be0f0207f095c67c0",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-07 10:48:08-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "c638a1407f481c145f4066fe6b1593db7c2b8cbc",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-08 15:40:32-03:00",
+    "message": "ok"
+  },
+  {
+    "hash": "51487653aec9698c5dc5d207b3cec8acd16dcd6b",
+    "merge": [
+      "c638a14",
+      "d520ba5"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-08 15:40:40-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "d1f5f58cc209fef410f251af7cc3e90b7a86ba73",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-09 10:34:00-03:00",
+    "message": "ESTOY MUY CONTENTA"
+  },
+  {
+    "hash": "0a6d836a258e3a3211169421fcfec83ab1d23a9c",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-09 10:39:01-03:00",
+    "message": "BIENNNN"
+  },
+  {
+    "hash": "a746a0597cb4341c0d1e3f14723c2837aa7201a5",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-09 11:29:33-03:00",
+    "message": "."
+  },
+  {
+    "hash": "d1054f35badec7f58a5e6e449f13164ce77f9b0b",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-09 15:28:14-03:00",
+    "message": "base arduino soquetic"
+  },
+  {
+    "hash": "9790efd2dc46e1c8e2b2cf3cf331b88b3879e1de",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-09 15:45:51-03:00",
+    "message": "a"
+  },
+  {
+    "hash": "ae4e9ed634f176f6f1a2eb82396e9d2a568347c3",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-15 14:38:33-03:00",
+    "message": "estoy juntando todo el server con lo dsemas"
+  },
+  {
+    "hash": "88d71d5abf8c46bc311151ad14627bf4bd49ae25",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-15 15:52:34-03:00",
+    "message": "juntte todo no se si esta bien tengo q revisarlo"
+  },
+  {
+    "hash": "b1b933d7c2a3304a2b7c08e8f37757b2f8d6a8ea",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-16 10:22:19-03:00",
+    "message": "segui no se si funciona"
+  },
+  {
+    "hash": "a53f7d40dc09f70fb2af1a8603e12b4edc12b8bb",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-16 14:48:18-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "2ac61ac885621726f569e10af0a9c930a6a2eca0",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-16 15:11:47-03:00",
+    "message": "ESTOY LLORANDO"
+  },
+  {
+    "hash": "950299be1ec68bb95389175a7a080b545aa6d0bb",
+    "merge": [
+      "2ac61ac",
+      "a53f7d4"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-16 15:12:02-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "04ec94b55567a2bb3671ea086968952b23055ca5",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-16 15:24:01-03:00",
+    "message": "listo de flechas"
+  },
+  {
+    "hash": "f8f2526e5c50584a2dae5aba14ec2c22e1a33672",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-17 15:49:17-03:00",
+    "message": "no llegammos brother"
+  },
+  {
+    "hash": "9cc6b57acfcbdd28a8f370e6495e9a34bcd57fe7",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-17 16:25:47-03:00",
+    "message": "Update handler.js"
+  },
+  {
+    "hash": "f817b7472e3d64b2f8a07889ee728c45232630b5",
+    "merge": [
+      "9cc6b57",
+      "f8f2526"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-17 16:25:51-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "236428ae853e46cdd8a1f6516607bd95c0f5ee38",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-18 18:21:27-03:00",
+    "message": "uyaaa"
+  },
+  {
+    "hash": "a1108a505a14e650f4ebd066fefd0893f1c33e6c",
+    "merge": [
+      "236428a",
+      "f817b74"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-18 18:21:34-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "063973927cf2a364d47b873db00efc2a1a38bc16",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-18 20:07:29-03:00",
+    "message": "no se cmabie todo"
+  },
+  {
+    "hash": "acf1b6ee7b16a290878d468816d36f106bc4fca9",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-18 20:23:00-03:00",
+    "message": "fondos"
+  },
+  {
+    "hash": "0126e47efeda7262aaba6dc975b90a32daa19f1b",
+    "merge": [
+      "acf1b6e",
+      "0639739"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-18 20:23:03-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "308aa5577f9f5026061276be45d6cd1332c25d1a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-22 15:51:19-03:00",
+    "message": "resoolviendo"
+  },
+  {
+    "hash": "96dfd95a60515198e8e2b3dcebaea5da73479f92",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-23 10:37:44-03:00",
+    "message": "NADIE ME LO DIJOO"
+  },
+  {
+    "hash": "16701f63e0ff3edb1dad80b0a6f06951b996f399",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-23 18:07:04-03:00",
+    "message": "listo menu"
+  },
+  {
+    "hash": "6e2c0fed09ef178f1aa31172102ee02199b9afab",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-23 23:26:58-03:00",
+    "message": "Conexión de Back con front simulado\nPrueba de conexión del back con un front end. Evento PostData capturado por el backend,funciona.\nCorregi la estructura estaba mal lo d data."
+  },
+  {
+    "hash": "63fd90739524e8ae027e9dfa08f07a9a00221108",
+    "merge": [
+      "6e2c0fe",
+      "16701f6"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-23 23:27:03-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "5c37fe3e948cc27835a77a807aae42d9709f5f1a",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-26 01:40:18-03:00",
+    "message": "juego 2 listo con front falta puntaje"
+  },
+  {
+    "hash": "7997115a5371fff38d7168ec30c23b131764e0e3",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-26 15:32:22-03:00",
+    "message": "estuve haciendo comunicacion con hard\nfalta ver si gano, perdio, q nivel y q juego y lo de laas palabras con el front en juego 1 y 3"
+  },
+  {
+    "hash": "6910dc1822c6ea02789da6e155f0d220640ff4be",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-27 01:20:23-03:00",
+    "message": "hice juego 1 funciona palabra estoy hace 40 horas"
+  },
+  {
+    "hash": "2ebd2db11f67ae8c8904b4920309ef9a6383ff92",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-28 01:11:41-03:00",
+    "message": "NO LLEGAMOOO"
+  },
+  {
+    "hash": "d6e870f50c1188cfeac6af30e9d71642872fa03f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-28 09:41:13-03:00",
+    "message": "TE ODIO"
+  },
+  {
+    "hash": "568ec0a73a54686b807ce80a4f511a9a4e88b519",
+    "merge": [
+      "d6e870f",
+      "6910dc1"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-28 16:06:54-03:00",
+    "message": "aaa"
+  },
+  {
+    "hash": "dd74d7e70dcef5822af41534ab8d6492e014f293",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-28 22:35:46-03:00",
+    "message": "odioooooooooooooooooooooooooooo proyecto\nn funciona no se q hacer"
+  },
+  {
+    "hash": "9549873b90c7c79c43657b4f6d140e545ea75ee6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-29 13:53:54-03:00",
+    "message": "VAMOOOO"
+  },
+  {
+    "hash": "474b8eb1ff6d5b53ed6a035a99cad2a2c8173945",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-29 14:47:00-03:00",
+    "message": "SHULI TE AMO"
+  },
+  {
+    "hash": "a7994be2574cc01da6f182256bb1d4f568c145ff",
+    "merge": [
+      "474b8eb",
+      "9549873"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-29 14:49:29-03:00",
+    "message": "SHULI GRACIAS"
+  },
+  {
+    "hash": "9edcb38bf3cec814774423d8f76882731e6d7be7",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-30 10:35:58-03:00",
+    "message": "DALAE MICA QUE SE PUEDEEE"
+  },
+  {
+    "hash": "dfcecdc7f80c8cdb0efe5f70f7effcf55cf6f354",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-30 11:11:19-03:00",
+    "message": "AMICHISSSS"
+  },
+  {
+    "hash": "7058cfa2fcbdd22c3f3a31307d47a082a686f16d",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-30 14:04:56-03:00",
+    "message": "juego 3 funciona!"
+  },
+  {
+    "hash": "5548c678073cb945134dfa88a6e739d3b63cab8d",
+    "merge": [
+      "7058cfa",
+      "dfcecdc"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-30 14:05:01-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "f4b30806681f2dbc071b4329638a83604df1ca03",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-30 15:50:40-03:00",
+    "message": "AAAAAAAA"
+  },
+  {
+    "hash": "3b1c603ca3592e36ebdf940ace27fd0207400828",
+    "merge": [
+      "f4b3080",
+      "5548c67"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-30 15:50:43-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "16a98b5d6918f66a59b14738d63944dd38bc6fde",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-30 18:04:22-03:00",
+    "message": "conexion co  hard no se si esta bieeeeen"
+  },
+  {
+    "hash": "b8923eec7c6d0266ca87fb1c7718740b5f975409",
+    "merge": [
+      "16a98b5",
+      "3b1c603"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-30 18:04:26-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2cb919b01c2b2a17d213669808e440f0d9669f66",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-10-30 18:06:44-03:00",
+    "message": "elimine lo q no iba"
+  },
+  {
+    "hash": "3641b28beb11c2d2ef71966c622d6c9c48a0f217",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-31 15:57:28-03:00",
+    "message": "GRACIAS LUCASSSS"
+  },
+  {
+    "hash": "920a299016376027998b2fb7d98882eb8b8ed383",
+    "merge": [
+      "3641b28",
+      "2cb919b"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-31 15:58:06-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "099f5bb573e73c0414640584b89bdb1c8d9a0726",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-10-31 21:43:33-03:00",
+    "message": "2 TERMINADOOOOUU"
+  },
+  {
+    "hash": "1f4924c22da8a54f9fdea199bff6744ce41a18ef",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 09:29:04-03:00",
+    "message": "h"
+  },
+  {
+    "hash": "9bd76b1ea1eaeb6d1cd70fc4843e4961fc1792ea",
+    "merge": [
+      "1f4924c",
+      "099f5bb"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 09:29:09-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "5ba0fac3bfa1c357b5ee148c16ea05dd692fabd5",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 10:11:20-03:00",
+    "message": "elimine mas cosas y segui serialport"
+  },
+  {
+    "hash": "d2f09fdbeaf23f3a94c22a37b600e9af8ca01ba2",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 10:28:57-03:00",
+    "message": "empece a hacer lo de reinicar, gano  y perdio\nno se si esta muy bien igual"
+  },
+  {
+    "hash": "d3bfd2ab352a384e70913ad30d7ff2b653d26a8d",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 10:34:21-03:00",
+    "message": "o"
+  },
+  {
+    "hash": "40a98895f03307d32c51d3f7a889ecd7f467e287",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 13:50:47-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "8682886dae94f7d59cd22eb773c2f59463fa671d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 14:43:27-03:00",
+    "message": "oh yeah"
+  },
+  {
+    "hash": "fcba2f8150fbbf79b0a8f93ec2f3ee0789333ea1",
+    "merge": [
+      "8682886",
+      "40a9889"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 14:43:30-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "664e40691cf32927cb483250083967395da5e1d7",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 14:46:48-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "41e9aa2bcc9c4adbf38de3826cd4358dd28b62ef",
+    "merge": [
+      "664e406",
+      "fcba2f8"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-01 14:47:05-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "29a2e79c8b09f07c915e0f2e3eff872f91da962f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 16:45:07-03:00",
+    "message": "NO LLEGO, ODIO PROYECTO"
+  },
+  {
+    "hash": "fff4b09c8568f0fe099c688dfcf8cea902bad5f4",
+    "merge": [
+      "29a2e79",
+      "41e9aa2"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 16:45:11-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "5bd90aae8ef3030c3f97b9fd420175b422d27f34",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 16:51:18-03:00",
+    "message": "BOTONES DE VOLER A JUGAR"
+  },
+  {
+    "hash": "0c1785bb60e94301ed34bd95e073f745619132b9",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 17:27:29-03:00",
+    "message": "PALABRAS"
+  },
+  {
+    "hash": "91afb6d074fe47eee580f6ac23964ec56e6c219f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-01 18:11:56-03:00",
+    "message": "palabras asquerosas"
+  },
+  {
+    "hash": "27db16c07b5d3bf21cb908f5fa54195d48954edb",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-02 13:47:07-03:00",
+    "message": "listo palabras"
+  },
+  {
+    "hash": "6ddd571b1ab48962bb6d79e1445bd9456170b4c0",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-02 17:59:38-03:00",
+    "message": "BASTA"
+  },
+  {
+    "hash": "7a3464c64a77e54a936da8715679ab41b83142be",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-02 20:43:43-03:00",
+    "message": "termine juegos, avance comunicacion serial y soquet"
+  },
+  {
+    "hash": "7cebd04811035bfcf028f0b480e64019cab890a3",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 14:15:08-03:00",
+    "message": "NO ME SALE"
+  },
+  {
+    "hash": "38e3f0350fb7fc350ae573541f0f75240610f4c2",
+    "merge": [
+      "7cebd04",
+      "7a3464c"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 14:15:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2449050c4e8af664a2d5890456564e6bd0350ac5",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 15:35:33-03:00",
+    "message": "Update palabras.json"
+  },
+  {
+    "hash": "e9b366169fcd93653ad57e92785ed7a5ea45fa9c",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 16:12:40-03:00",
+    "message": "POR FAVOR NO CAMBIAR"
+  },
+  {
+    "hash": "34a370e8b059fa04b40360b34b336de6ff38179b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 16:22:52-03:00",
+    "message": "brouu"
+  },
+  {
+    "hash": "184101d52b0c4c3fef420ed932035bdf63b1999f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-03 18:22:51-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "c8b8b67f3810de57b40d723d0c3331a47f486e4b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 18:25:54-03:00",
+    "message": "problemss"
+  },
+  {
+    "hash": "04891d3ae31b7a1784148aad7d92ed33856c8d88",
+    "merge": [
+      "c8b8b67",
+      "184101d"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 18:26:09-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "bfc2b086fcfe9ff0bcfc9b842f8ae64982ac2af4",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-03 18:29:54-03:00",
+    "message": "SECUENCIASIMON A MAYTE"
+  },
+  {
+    "hash": "7f7d3ab5aa100bbbf650972c8ce65248327a40a8",
+    "merge": [
+      "bfc2b08",
+      "04891d3"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-03 18:30:14-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "6f7a06b17934c4b5ff958d4078f7a1a761dba001",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 20:19:33-03:00",
+    "message": "BOEEEE"
+  },
+  {
+    "hash": "53328050e50f00382ddefb7c77531c1a3aa9f9fe",
+    "merge": [
+      "6f7a06b",
+      "7f7d3ab"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 20:19:41-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "4d08bc8d8f76c598091fa6e3e9c65f2d041c4911",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-03 23:47:14-03:00",
+    "message": "ESTOY ENOJADISIMA"
+  },
+  {
+    "hash": "7304450f72871181c6caf6fe4c5f8dd8f1fb2e14",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-04 15:28:04-03:00",
+    "message": "oa"
+  },
+  {
+    "hash": "ae61b963d0f69b46ac489d0e525fe6808c508db2",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-04 19:27:25-03:00",
+    "message": "respondi al evento reinciar\nfalta chequear lo de juego y nivel en todo y lo que me dijo hoy mayte"
+  },
+  {
+    "hash": "42e32929be80fd0e76055a110f90ad44d014f538",
+    "merge": [
+      "ae61b96",
+      "7304450"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-04 19:27:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "85114926fdb280c55cee96711626c28fce8399a4",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-04 20:17:09-03:00",
+    "message": "Json con formato bien del juego2\nfalta del 3"
+  },
+  {
+    "hash": "8052c4d8d652b6b87ca0a64d216fb4a2a4d4799b",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 08:59:23-03:00",
+    "message": "LISTOO"
+  },
+  {
+    "hash": "3f6383fce886b801849fc318bd467ee80e92a3e0",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 09:00:38-03:00",
+    "message": "."
+  },
+  {
+    "hash": "9ca9e20d579f52ad3f288b67573ead02b30c47f0",
+    "merge": [
+      "3f6383f",
+      "8052c4d"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 09:01:27-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "68993469fc5f6a7049776771264152502b62bbd8",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 13:02:37-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "08b881aabc3eb400b9a856c976ed77d755939cef",
+    "merge": [
+      "6899346",
+      "9ca9e20"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 13:03:34-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "dd66179fc1835f9ee3d62c838f57c44f8671578a",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 14:20:54-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "ba78b510790702f8cb06c91ac6857be8c3d7928f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 14:27:35-03:00",
+    "message": "Update tateti.js"
+  },
+  {
+    "hash": "0cd5f8b9bacbf850764059fd48ba7b9dd17b25dc",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 14:32:03-03:00",
+    "message": "AMICHIII"
+  },
+  {
+    "hash": "ad324a30194c89c29625086cf3848d47d108cafa",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 14:32:10-03:00",
+    "message": "BOENAAAA"
+  },
+  {
+    "hash": "03eaf2212c0d68e6008a25bd77828eb42dc2ce67",
+    "merge": [
+      "ad324a3",
+      "ba78b51"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 14:32:16-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "e47ffbd4a66d87b65d6422a1a1ad566ed18bb485",
+    "merge": [
+      "0cd5f8b",
+      "ba78b51"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 14:32:20-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2831ec9cfee3627f76bbfeaa6f751c49af344753",
+    "merge": [
+      "e47ffbd",
+      "03eaf22"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 14:35:18-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "0d381cd263453241a4ebe93e69c1787d242ad4f1",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 14:56:14-03:00",
+    "message": "PALABRAS LISTO BIEN"
+  },
+  {
+    "hash": "1424b0ecc6add324988d740d0e64a1dd0bf00bb3",
+    "merge": [
+      "0d381cd",
+      "2831ec9"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 15:07:30-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "fa0fe547f2b95e4ce1ac406bb33f8b7e7eb92091",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 15:10:49-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "31afaab12003423c0c735ddc2fd547f8d36d92d0",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 15:47:31-03:00",
+    "message": "ME MUERO"
+  },
+  {
+    "hash": "30df863a01e1d663e58a25b2315070d5b0e3d9b1",
+    "merge": [
+      "31afaab",
+      "fa0fe54"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 15:47:45-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "6ce99744782a5beeb5810a823451325c3c27cb21",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 15:51:05-03:00",
+    "message": "LISTORTI"
+  },
+  {
+    "hash": "e90e2e72d80e8a1b7e4836be2f97b2aa513d8baf",
+    "merge": [
+      "6ce9974",
+      "fa0fe54"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-05 15:51:12-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "b253a0b3a7546c15e4cc8da89a76c858b3ac7c36",
+    "merge": [
+      "30df863",
+      "e90e2e7"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-05 15:54:55-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "99292aeed8e36e8ddd27f3330bfe5256ec79a7e9",
+    "authorName": "JZylber",
+    "authorEmail": "zylberjulian@gmail.com",
+    "date": "2024-11-05 17:31:20-03:00",
+    "message": "feat(shulian): updated to soquetic v1.2.5"
+  },
+  {
+    "hash": "20ac48f675d696e54b94e73d3ee7e6903e81139b",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-05 22:49:49-03:00",
+    "message": "hola"
+  },
+  {
+    "hash": "500d153ee21f2fed29409ec90309aa0a0b92f3b9",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 09:46:58-03:00",
+    "message": "......."
+  },
+  {
+    "hash": "9f137cec840468d9cb615e283cdacc55010cab2b",
+    "merge": [
+      "500d153",
+      "20ac48f"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 09:47:12-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "9fa0f0e3455af23362a00a391d5f2f09c8cb80fc",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 10:15:21-03:00",
+    "message": "GRACIAS SHULLI"
+  },
+  {
+    "hash": "56ac459cfa29e07f18fa6f3f8af8baf76a5d7b21",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-06 10:23:49-03:00",
+    "message": "no string"
+  },
+  {
+    "hash": "e48441c91c52ceb12fd5f6076dc282ec2eddf3b2",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-06 10:27:11-03:00",
+    "message": "sin consolelog"
+  },
+  {
+    "hash": "c33a881f2adc3360763a049a6c537da25d1c2e5b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 10:27:33-03:00",
+    "message": "VAMO LO PIBEEE"
+  },
+  {
+    "hash": "b22e5567e3d6575536ee546927458df9c4694320",
+    "merge": [
+      "c33a881",
+      "e48441c"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 10:27:49-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "f597ec2511f036ae0bcef7343b3b0f9524aee6d2",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 11:39:01-03:00",
+    "message": "ESTOY VIVA"
+  },
+  {
+    "hash": "6afaba6532219681df6f479b977825b962950b4b",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-06 15:14:00-03:00",
+    "message": "a"
+  },
+  {
+    "hash": "c2fdec5f1724bda43e3c0ee5177036afcf8fe887",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 15:14:06-03:00",
+    "message": "VAMOOSSSSS"
+  },
+  {
+    "hash": "28ebe3a3e454044f4b2fb0e5fd91a7e4a149214d",
+    "merge": [
+      "c2fdec5",
+      "6afaba6"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 15:14:23-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "0fa9b9c765fd9fdbd5b6083f893d70867336c4f1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-06 15:30:57-03:00",
+    "message": "A VERERR A VERRRR"
+  },
+  {
+    "hash": "d15232572c790b4b994d9afde2938fc15d10b632",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-06 15:32:00-03:00",
+    "message": "s"
+  },
+  {
+    "hash": "36032b90c42ae932129490e36dc134d9f6eee244",
+    "merge": [
+      "d152325",
+      "0fa9b9c"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-06 15:32:18-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "80c919aff717f4041891f0fc0e1f1c0296bdd9b7",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-08 09:34:08-03:00",
+    "message": "probar juego con mayte"
+  },
+  {
+    "hash": "f6577cb4778c1703822dfe1166e3ba529c271b25",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-08 10:39:09-03:00",
+    "message": "ESTOY ENFERMA"
+  },
+  {
+    "hash": "6f795d2c239e4ba3d1292c7e89f0afac3e4f824c",
+    "merge": [
+      "f6577cb",
+      "80c919a"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-08 10:39:23-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "dca503d32d8c9bab1ad859cbc54782ff345decd9",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-08 10:42:22-03:00",
+    "message": "pone pero no funciona"
+  },
+  {
+    "hash": "fbc4d1a2b1a37c1a80317b3464b15407edb0a51b",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-08 14:34:10-03:00",
+    "message": "simon con back prueba bien"
+  },
+  {
+    "hash": "85d1f68d71e0e7ba33c30668bc526a65519ba12b",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-08 15:58:27-03:00",
+    "message": "pasando serial a server"
+  },
+  {
+    "hash": "e8abffcf1835778d574caeb7bebb5139c6aecdd3",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-08 16:01:53-03:00",
+    "message": "UYAA"
+  },
+  {
+    "hash": "72b85e2d4cde294c4c4f6112c5b15529099dced7",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-10 23:07:41-03:00",
+    "message": "espero q sea mi ultimo commit(pase prueba a server)"
+  },
+  {
+    "hash": "8a1600aac3432b39b41b8e0ae093d2045ac81716",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-11 03:57:14-03:00",
+    "message": "nos lo llevamos, bye"
+  },
+  {
+    "hash": "4dc704c37835dbd582512f899cade0ad491ce3d4",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-11 10:45:51-03:00",
+    "message": "Update tateti.js"
+  },
+  {
+    "hash": "de46e95fd18fc7c20b475d057a3a81059b0390c8",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-11 11:11:03-03:00",
+    "message": "js tateti funcionaaa"
+  },
+  {
+    "hash": "ef2e6805c43fb9464817eaf7052922ee44bd5437",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-11 14:40:05-03:00",
+    "message": "probando con eventos"
+  },
+  {
+    "hash": "2a96c02f40429c331f6a058af8e064c3a80f9258",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-11 22:38:56-03:00",
+    "message": "front mica a chequear mañana con botonera"
+  },
+  {
+    "hash": "74468f8667e90d3ac8a1d64a455a73c59883624c",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-12 10:22:28-03:00",
+    "message": "A VER SI LLEGAMOSS"
+  },
+  {
+    "hash": "2d3de09d159ad23c4534bd04837b14d8e46d5ad3",
+    "merge": [
+      "74468f8",
+      "2a96c02"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-12 10:28:24-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "8a1757d086df12f04a5332395d64c14024f10aa9",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-12 10:35:29-03:00",
+    "message": "funciona el html"
+  },
+  {
+    "hash": "c38794055b85733d2488bf7909e3b64e42074292",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-12 12:03:48-03:00",
+    "message": "LISTO TUTORIALES"
+  },
+  {
+    "hash": "7095d8f7ab9914bfa1a7a25f3209c141e0d02a59",
+    "merge": [
+      "c387940",
+      "8a1757d"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-12 12:04:51-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "4298147eb5a6b3055fa844a9a2efd9c40f435fef",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-12 17:17:01-03:00",
+    "message": "DALE QUE LLEGO\nHola profes! Cómo están? Por si llegan a leer esto, no pierdo nada en preguntarles.\nQue posibilidades hay de que nos dejen presentar el viernes? <3\nCariños"
+  },
+  {
+    "hash": "ecae56ec018ce6cc108aa0df8b16e22ba6997597",
+    "merge": [
+      "4298147",
+      "7095d8f"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-12 17:18:47-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "42298d940c1bd662606df61f47725e708603f3d4",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-13 14:42:55-03:00",
+    "message": "jasjasdjh\nwfbhc"
+  },
+  {
+    "hash": "b81f52b4a8924b42a20a9c86b0719ffe8a86ace4",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-13 14:48:12-03:00",
+    "message": "."
+  },
+  {
+    "hash": "b50d049f21cf7826611f0be3a4aa1facc3400ac1",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-13 14:49:28-03:00",
+    "message": "a"
+  },
+  {
+    "hash": "c02a78d149c2c59cff6ca5d4aa374cf6372a9385",
+    "merge": [
+      "b50d049",
+      "b81f52b"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-13 15:48:05-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "754095fc83461e363f43ff0f72911e018970db2b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-13 15:54:02-03:00",
+    "message": "LOUCHUS T AMMO"
+  },
+  {
+    "hash": "c726691ece71190fa95c63e61451acc23e60573b",
+    "merge": [
+      "754095f",
+      "c02a78d"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-13 15:54:21-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "07e12ef4ace38687635c3044f51bd2ebd93498e3",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 10:41:34-03:00",
+    "message": "ODIO PROYECTO"
+  },
+  {
+    "hash": "616424feee44f5e9b19166985a024b4e0d10cddd",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-15 13:28:45-03:00",
+    "message": "Update prueba.js"
+  },
+  {
+    "hash": "2b4e13788b607afd875ecd980db577342c80d4de",
+    "merge": [
+      "616424f",
+      "07e12ef"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-15 13:30:12-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "2d81d868dd48b0afba52d339ab9e4398ac6e10cf",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 13:31:42-03:00",
+    "message": "CHAU FOTOS"
+  },
+  {
+    "hash": "08df50b3fcb25da0b52bb04d3f1fa0301b98e6cd",
+    "merge": [
+      "2d81d86",
+      "2b4e137"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 13:32:14-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "9f85c0c0ae2ec99eff048ff17a5406433e649471",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-15 13:54:24-03:00",
+    "message": "juego 2 imagenes listas"
+  },
+  {
+    "hash": "32f4e9efc9d9cf73dd2d41122f8d93681ddafc67",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-15 14:28:16-03:00",
+    "message": "imagenes juego 3, falta un nivel (fotos de isa)\nESPERO QUE SIRVA"
+  },
+  {
+    "hash": "56b35a5a42120d2b5d6a659ae1c735baad153ef1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 15:38:50-03:00",
+    "message": "JUEGO UNO TERMINADO"
+  },
+  {
+    "hash": "27853721a33e63c2a2a6eb2fdbc8729fe084ce3c",
+    "merge": [
+      "56b35a5",
+      "32f4e9e"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 15:39:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "bb3288883bb2629eed5e6e57b82ee6627d17206c",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 15:49:11-03:00",
+    "message": "LISTO JUEGO 1"
+  },
+  {
+    "hash": "26a8a187182231f70b8a3d42843c73f89ab87f34",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-15 15:53:20-03:00",
+    "message": "holaaaaa"
+  },
+  {
+    "hash": "f692de415edd37459e6896acdceba4e9023ab0ef",
+    "merge": [
+      "26a8a18",
+      "bb32888"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-15 15:53:47-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "5f1be5e4933dba8dcc42ce687cc01c1fa25a5966",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 17:36:24-03:00",
+    "message": "ya estan arregladas las imagenes (obviamente por mayte)"
+  },
+  {
+    "hash": "e15baaedd1d79779d0fd8628714e83f6039695fe",
+    "merge": [
+      "5f1be5e",
+      "f692de4"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 17:36:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "493ea9d7979d0596f0687d71703f8676b034e916",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-15 17:57:57-03:00",
+    "message": "TERMMINE DE PONER LAS FOTOS"
+  },
+  {
+    "hash": "5f392c90096d7651756f6afc229ce3114bbbebc9",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-16 10:11:07-03:00",
+    "message": "Update server.js"
+  },
+  {
+    "hash": "27bbe1c3268fcf1edb862ed1632717b1bd76897f",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-16 11:06:46-03:00",
+    "message": "QUE PASO CON EL GITIGNORE"
+  },
+  {
+    "hash": "b28f58d37db7acc8a193c2789db68d6214c2af61",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-16 11:19:56-03:00",
+    "message": "k"
+  },
+  {
+    "hash": "6df4958a3d5bd479a19798adce0a7121e5ba5276",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-16 11:29:28-03:00",
+    "message": "Eliminar node_modules del seguimiento de Git"
+  },
+  {
+    "hash": "3ad72488d86bf049d0eb32a86227b10e22e651fc",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-17 23:00:06-03:00",
+    "message": "listo juego 3"
+  },
+  {
+    "hash": "71cd9058166dda53644ab0d366dcace43f137657",
+    "merge": [
+      "3ad7248",
+      "6df4958"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-17 23:00:09-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "b2e84c188d7c84ef4eb2e23e7c7c03ad3f206e6e",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-18 09:37:11-03:00",
+    "message": "no me funcionaaaa"
+  },
+  {
+    "hash": "6c7f13cc9de5d3174842e718013721e4b09ab77a",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-18 12:26:49-03:00",
+    "message": "FUNCIONAAA TODO EL BACK"
+  },
+  {
+    "hash": "84b50641ac30df34f6947e3ab58a96d48a941cb2",
+    "merge": [
+      "6c7f13c",
+      "b2e84c1"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-18 12:26:55-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "214afd70609859b0240ef151952bcf793586bf17",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-19 12:04:10-03:00",
+    "message": "Create minimax.js"
+  },
+  {
+    "hash": "69afc17575cc0776f26072b42761795131614ee6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 10:54:09-03:00",
+    "message": "JUEGO 1"
+  },
+  {
+    "hash": "b3d09b7dbe6b040aa62bf4d6c8d1f846efc9dc4d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 14:25:46-03:00",
+    "message": "aa"
+  },
+  {
+    "hash": "16bdffeee4ac88a3c29e31c1c58d4c03ac1ac1cd",
+    "merge": [
+      "b3d09b7",
+      "69afc17"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 14:29:57-03:00",
+    "message": "aa"
+  },
+  {
+    "hash": "75cb037d3e81206a81aa8a4e3b5ce46d79897e38",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 14:48:52-03:00",
+    "message": "DASDSA"
+  },
+  {
+    "hash": "1699ca2f4b5fad0ba9b7e2b3e68951ff937a1d1e",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 14:49:37-03:00",
+    "message": "oaaaa"
+  },
+  {
+    "hash": "da6f3903fc8f57fbbdad1007f3fe66258969a381",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-20 15:28:08-03:00",
+    "message": "IMAGENES DEL JUEGO 3, FALTAN ALGUNAS (4 QUE ISA NO ENCONTRO)"
+  },
+  {
+    "hash": "347a659ae832c942ff55eec3afca5670ed35257b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 15:28:44-03:00",
+    "message": "test"
+  },
+  {
+    "hash": "1cbae9848be24b7daec23f74f793958d71bb1f29",
+    "merge": [
+      "da6f390",
+      "1699ca2"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-20 15:30:12-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "86333359e219ba8bd3579363bbef54ad5d6aeb68",
+    "merge": [
+      "1cbae98",
+      "347a659"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-20 15:30:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "1fc974f72f8613c33371bc1043514ceeee9c8990",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 15:35:42-03:00",
+    "message": "diablo"
+  },
+  {
+    "hash": "dbdef712374c33e3160e19cf4d9158f9c7763dfa",
+    "merge": [
+      "1fc974f",
+      "8633335"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 15:36:02-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "8a6660108f92d1de1383f212859be48288226e31",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-20 15:43:14-03:00",
+    "message": "imagenes del juego 1 (ESTE SI FALTAN 4 IMAGENES DEL 3ER NIVEL)"
+  },
+  {
+    "hash": "2fbf94a6340262e11d99df794bc072ec0709c072",
+    "merge": [
+      "8a66601",
+      "dbdef71"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-20 15:43:31-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "d425fc5b67485715fce3d033076685ac4e19d790",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 16:49:17-03:00",
+    "message": "VAMOS QUE SE PUEDE"
+  },
+  {
+    "hash": "cc2bdc0fb3ef944ae91938e5462f71a2e088a4a3",
+    "merge": [
+      "d425fc5",
+      "2fbf94a"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 16:49:21-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "52ebfcac3cfbfef86d245f476cb9ff5df44cf14d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-20 17:13:06-03:00",
+    "message": "adelante pavadas realmente"
+  },
+  {
+    "hash": "05eda3912938e86dbea9ce3498cb895f0b8dc0b5",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:26:56-03:00",
+    "message": "JUEGO 3 IMAGENES TERMINADAS"
+  },
+  {
+    "hash": "c1b2d498b6b017cf3c43181a66a9ca11fb412d08",
+    "merge": [
+      "05eda39",
+      "52ebfca"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:27:00-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "46dc245d871edc6da040e1554807799d20e1d2c2",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:31:40-03:00",
+    "message": "faltan 3 juego 1"
+  },
+  {
+    "hash": "885d2363b36e24a1456472a673a1320f0b2a6f30",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:44:21-03:00",
+    "message": "Ganar y perder de cada juego subido"
+  },
+  {
+    "hash": "686a16e26a9ecfa751222b27bda456835f962f92",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:47:21-03:00",
+    "message": "falta pileta del juego 1 y listo"
+  },
+  {
+    "hash": "152d959bb6d6933e1568dacee283054af7b3c869",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 08:57:56-03:00",
+    "message": "TERMINADO LAS IMAGENES DE SUBIRLAS"
+  },
+  {
+    "hash": "44a470dbb75ca43df0d8cc9fe8f0c18afcdae218",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 10:20:09-03:00",
+    "message": "FOTOS DEL JUEGO 3 TERMINADAS"
+  },
+  {
+    "hash": "d9027858e6b567b97b161f82095e63b56d959884",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-22 10:20:25-03:00",
+    "message": "PALABRAS CONECTADASA"
+  },
+  {
+    "hash": "51715afacc9607a17a649add5d19ef8da7d7e429",
+    "merge": [
+      "d902785",
+      "152d959"
+    ],
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-22 10:20:41-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "9553ab5ba61b1d10a178a76de22c8d537f92b086",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-22 10:21:57-03:00",
+    "message": "todas las palabras conectadas"
+  },
+  {
+    "hash": "371573e928193656b339124a61faf448b2550c46",
+    "merge": [
+      "44a470d",
+      "9553ab5"
+    ],
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 10:22:14-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "dd6d0213a632639f6f8a6c4af2ac9a44efc5f1aa",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 11:27:09-03:00",
+    "message": "Ya esta con las imagenes (¿como hago que estas pantallas sean utiles?)"
+  },
+  {
+    "hash": "7764054991e0e0d123d611243deb9f662d8216c8",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-22 11:31:07-03:00",
+    "message": "subo codigos, que no habia subido del proceso del codigo final.\nchicas si quieren mi codigo entren a Hardware y Botonera, ese es mi codigo, se tienen que descargar la libreria de CuteBuzzerSounds en el arduino y ya.\n(igual mica lo tiene no se si vos juli)"
+  },
+  {
+    "hash": "4a100b2e2391996d877f59f9e2e1fcdbc82521ed",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-22 14:37:11-03:00",
+    "message": "LUKI PUKI TE AMO CON TODO MI SER"
+  },
+  {
+    "hash": "8c6ff1ed0bb73caa6e36477b997cef8c0a639e71",
+    "merge": [
+      "4a100b2",
+      "7764054"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-22 15:20:14-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "49fbbe2116acd0a9f15098890a1fd02eac0d47f6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-22 15:51:28-03:00",
+    "message": "vamos los pibes"
+  },
+  {
+    "hash": "b5e9ed4c69b848d14df970d45f48cbe000290bfc",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-22 15:52:00-03:00",
+    "message": "............"
+  },
+  {
+    "hash": "354f723316cb6b599c3bdedd8adbf669f6fee956",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 19:21:15-03:00",
+    "message": "ODIO CON MI VIDA PROGRAMAR"
+  },
+  {
+    "hash": "29c2897bc036db55e3a5181a19dc2744e819020b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 19:26:19-03:00",
+    "message": "OAOOAOAOA"
+  },
+  {
+    "hash": "cb38205b7d1984fa1d571a4a7ba8194ed5aed39d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 19:29:21-03:00",
+    "message": ".........."
+  },
+  {
+    "hash": "94d6809d731406a98200d1250b533a1b2620d4d6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 19:30:57-03:00",
+    "message": "Revert \"..........\"\nThis reverts commit cb38205b7d1984fa1d571a4a7ba8194ed5aed39d."
+  },
+  {
+    "hash": "c2503bf82e0c8b366b7f42e8f3e2b61c615aa5c4",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 19:40:36-03:00",
+    "message": "DIABLOOOO"
+  },
+  {
+    "hash": "ca9a8d255f9c612f09226d0b65651583b85eef7f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:02:50-03:00",
+    "message": "DALE QUE SE PUEDEEEE EQUIPO"
+  },
+  {
+    "hash": "b94ae2cdee49e390c8b09deca3a979e0eb218bf3",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:03:17-03:00",
+    "message": "siiiiiiiiii"
+  },
+  {
+    "hash": "9d56fb0de7b8c1dd5f70ac6948913d2995ae1745",
+    "merge": [
+      "b94ae2c",
+      "ca9a8d2"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:03:38-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "6a9ffe03ac8669bdcda39c727f2462dc7b17586f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:06:11-03:00",
+    "message": "CORRECTA"
+  },
+  {
+    "hash": "0414a853d1750510688a687209659e97825e7b12",
+    "merge": [
+      "6a9ffe0",
+      "9d56fb0"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:06:38-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "18db5f4d0415fa442407e26396c8b22547974f92",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:07:07-03:00",
+    "message": "yey"
+  },
+  {
+    "hash": "212d6b4288953e55ef57376a66a695c85a68cc97",
+    "merge": [
+      "18db5f4",
+      "0414a85"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:07:27-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "360ba6fdf0e266e02e596811402413fec10e9eff",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:09:47-03:00",
+    "message": "."
+  },
+  {
+    "hash": "9c10ad3100f78117248bc71a9c91cd240734f89a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:10:59-03:00",
+    "message": "."
+  },
+  {
+    "hash": "4871f5669687fcb0b1a2c45f2cd90345f62110ce",
+    "merge": [
+      "9c10ad3",
+      "360ba6f"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:11:41-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "9f5eb7f64c5c7cd5dd0b59fa33d019d02ded82ed",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:15:05-03:00",
+    "message": "LISTO JUEGO 5"
+  },
+  {
+    "hash": "59c9d7dd1941f74dfe3ac9037855198b22dda986",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:16:05-03:00",
+    "message": "..."
+  },
+  {
+    "hash": "9b55eea5010cbe14d8357f2e4e04eef14505b00a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:29:12-03:00",
+    "message": "....."
+  },
+  {
+    "hash": "27d798ff680fa98025afd203879e471ae2d82af1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:46:38-03:00",
+    "message": "1234567"
+  },
+  {
+    "hash": "5572e2b5bb3b4a096765c449eb926cfd3ef266ec",
+    "merge": [
+      "27d798f",
+      "9b55eea"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:46:52-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "53ddd6705179035d86c67bc1300515b033d08d8b",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:51:24-03:00",
+    "message": "."
+  },
+  {
+    "hash": "63dadc345d3e6db0b14e88ef8e009bd0d44d0d22",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:57:01-03:00",
+    "message": "bueno"
+  },
+  {
+    "hash": "5e542e7bfa1f8dc78e6386fb985c76c178daf9c1",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-24 20:59:16-03:00",
+    "message": "vamooo"
+  },
+  {
+    "hash": "7e165600e96e6473c797abb4dfd43c714e8da598",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-25 10:03:56-03:00",
+    "message": "a ver simon"
+  },
+  {
+    "hash": "b5a188f05b9c8fec9d93b3399b0c9b3ed4e68361",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-25 10:13:34-03:00",
+    "message": "BIEN"
+  },
+  {
+    "hash": "311dc00a92e3d6019868bb23b8e527507b7e8f42",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-25 10:32:57-03:00",
+    "message": "imagenes"
+  },
+  {
+    "hash": "851112100f27311a549e70a0d82befec3dc7a64a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 10:38:43-03:00",
+    "message": "bueno"
+  },
+  {
+    "hash": "18c3f3cf6468f80b2341ef16e84a6740716e992f",
+    "merge": [
+      "8511121",
+      "311dc00"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 10:38:52-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "6f58c3ee1fe8c7cbdc31728b18d3bdf22cd463bc",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 11:25:55-03:00",
+    "message": "NO HAY CHANCE QUE LLEGUE"
+  },
+  {
+    "hash": "2a635b7cf5588599494571120d15283b5d21a0e4",
+    "authorName": "CALVERT DE BOHUN MAYTE",
+    "authorEmail": "48801688@ort",
+    "date": "2024-11-25 11:36:00-03:00",
+    "message": "ya esta uni las palabras con la foto fijate"
+  },
+  {
+    "hash": "539d70eceb8c66f6960876730fed49681c5aeee6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 11:52:03-03:00",
+    "message": "LISTO JUEGO 3"
+  },
+  {
+    "hash": "7cde0bce400a6e79a1b24282540413c3ed01e7e6",
+    "merge": [
+      "539d70e",
+      "2a635b7"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 11:52:29-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "3a564a6b93b684569a487816c3cece5c81b41c2e",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-25 15:51:01-03:00",
+    "message": "oooooooooooaaaaaaaaaaa"
+  },
+  {
+    "hash": "f3721dce247daaff1eb4f2fd02e1ba3941f12284",
+    "authorName": "micabod",
+    "authorEmail": "167199490+micabod@users.noreply.github.com",
+    "date": "2024-11-25 16:59:44-03:00",
+    "message": "k"
+  },
+  {
+    "hash": "03922e6dad647772d996fa7a1b3783323e1a2299",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-26 10:07:36-03:00",
+    "message": "bien"
+  },
+  {
+    "hash": "11ce5a1edc7bdfae699b09db8f017dd955e37f89",
+    "merge": [
+      "03922e6",
+      "f3721dc"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-26 10:07:45-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "7885a1ceeb25141b1d6b9544e1dcfbf90c76aeac",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-26 10:08:02-03:00",
+    "message": "CALMA"
+  },
+  {
+    "hash": "3f60fa8b8a7ddb9a79624d0682b7d102c2300ec3",
+    "merge": [
+      "7885a1c",
+      "11ce5a1"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-26 10:08:15-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "a9f9161319332a79b6ee5fee155a0419acc4a711",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-26 13:50:10-03:00",
+    "message": ".."
+  },
+  {
+    "hash": "681a3dc25c4cbc1c8b6cf26108ede85db34f0c6f",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-26 14:50:45-03:00",
+    "message": "asas"
+  },
+  {
+    "hash": "dcf07e332b037d03babc499cc6192fde4bc197e8",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-26 17:30:58-03:00",
+    "message": "no llego"
+  },
+  {
+    "hash": "85224701dd2bbc2debdac946bb523a6f576b12c3",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 08:46:19-03:00",
+    "message": "GRACIAS SHULI"
+  },
+  {
+    "hash": "a98cc68a1ccc80724eed61a8e0da61f3b2e3b21a",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 10:57:13-03:00",
+    "message": "TE ODIO"
+  },
+  {
+    "hash": "9838cc0deddea8ceb93b3817eeae00f81e5cb05d",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 12:18:17-03:00",
+    "message": "oaaa mamu"
+  },
+  {
+    "hash": "3fc04e03f888f1d6ab5cdafea2acfc313c6cdbd6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 14:48:57-03:00",
+    "message": "cambiosssss"
+  },
+  {
+    "hash": "d16e3af046cc5147b0b6ddf6d587e394726a16e9",
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-27 15:54:25-03:00",
+    "message": "LISTO DE FOTOS"
+  },
+  {
+    "hash": "641d421f0cb7481dc5a2375d33a37171d46db6b9",
+    "merge": [
+      "d16e3af",
+      "3fc04e0"
+    ],
+    "authorName": "urielschlo",
+    "authorEmail": "166619365+urielschlo@users.noreply.github.com",
+    "date": "2024-11-27 15:54:51-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "d52de3a5e7642bcca874938c2bb108adbaaac617",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 15:55:28-03:00",
+    "message": "diablooo"
+  },
+  {
+    "hash": "621dd8ef532ef71f6f32d55b77900c3a8c89a3fa",
+    "merge": [
+      "d52de3a",
+      "641d421"
+    ],
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 15:55:52-03:00",
+    "message": "Merge branch 'main' of https://github.com/3-TIC-ORT/proyecto-3-neorolearning"
+  },
+  {
+    "hash": "91b743c79d8c24c26eb59ec7432d0fbcbf583971",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 16:55:25-03:00",
+    "message": "ODIO MI VIDA"
+  },
+  {
+    "hash": "f8ddf12e78d8e835c98bb939869d680ac30872e7",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-27 17:16:03-03:00",
+    "message": "COMITEOOOO"
+  },
+  {
+    "hash": "dd382dae8e74069820d08c733346c4e238abbd47",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-28 11:20:55-03:00",
+    "message": "ODIO MI VIDA, X DIOS"
+  },
+  {
+    "hash": "397b0e0eee84e2df3b30a40b7956cbd6e7ac0aef",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-28 17:15:02-03:00",
+    "message": "TE ODIO PROYECTO"
+  },
+  {
+    "hash": "eff483ac5dfcdb2624e775ef4b0936f535044bf6",
+    "authorName": "WEBER JULIETA",
+    "authorEmail": "bw0007@est.ort.edu.ar",
+    "date": "2024-11-29 09:19:03-03:00",
+    "message": "BASTA DE PROYECTO"
+  }
+]

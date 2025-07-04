@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Neurosys</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.8.1/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/JZylber/SoqueTIC-Client@v1.2.6/soquetic-client.js"></script>
+    <script src="main.js" defer></script>
+  </head>
+  <body>
+    <main class="fira-sans-regular">
+      <header>
+        <div class="imgContainer"><img src="img/paralyzed.png" alt="" /></div>
+        <h1 class="fira-sans-bold">NeuroSys</h1>
+      </header>
+
+      <form action="">
+        <h2 class="fira-sans-medium">Filtrar Commits</h2>
+        <div class="category">
+          <label>Hash</label>
+          <input
+            type="text"
+            id="hash"
+            class="input fira-sans-regular"
+            placeholder="Hash del commit"
+          />
+        </div>
+        <div class="category">
+          <label>Autores</label>
+          <div id="autores">
+            <template id="templateAutor">
+              <div class="checkAutor">
+                <input type="checkbox" checked />
+                <label></label>
+              </div>
+            </template>
+          </div>
+        </div>
+        <div class="category">
+          <label>Fechas</label>
+          <div class="fechas">
+            <div class="fecha">
+              <span>Inicio</span>
+              <input
+                type="date"
+                id="fechaInicio"
+                min="2024-07-01"
+                max="2024-12-01"
+                class="fira-sans-regular"
+              />
+            </div>
+            <div class="fecha">
+              <span>Fin</span>
+              <input
+                type="date"
+                id="fechaFin"
+                min="2024-07-01"
+                max="2024-12-01"
+                class="fira-sans-regular"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="btnContainer">
+          <div id="buscar" class="btn fira-sans-semibold">Filtrar</div>
+        </div>
+        <div><span>Commits: </span><span id="nCommits"></span></div>
+      </form>
+      <div class="commits" id="commits">
+        <template id="commit">
+          <div class="commit">
+            <div class="commitAuthor">
+              <img src="icons/bee.png" alt="" /><span></span>
+            </div>
+            <div class="commitData">
+              <div class="msgContainer"><span class="commitMsg"></span></div>
+              <div class="footer">
+                <span class="hash"></span>
+                <div class="dateContainer">
+                  <span class="commitDate"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </template>
+      </div>
+    </main>
+  </body>
+</html>
