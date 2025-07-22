@@ -4,14 +4,10 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --watch src --exec node src/index.js"
-  },
+  "scripts": {},
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^3.1.10",
-    "soquetic": "^1.2.6"
+    "soquetic": "^1.4.1"
   }
 }

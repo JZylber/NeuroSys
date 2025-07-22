@@ -59,7 +59,7 @@ function buscarCommits() {
   const hash = document.querySelector("#hash").value.trim();
   const fechaInicio = document.querySelector("#fechaInicio").value;
   const fechaFin = document.querySelector("#fechaFin").value;
-  postData(
+  postEvent(
     "buscarCommits",
     {
       autores: autores,
